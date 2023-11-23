@@ -1,11 +1,27 @@
 # Project-GrowZ
-Growtopia Save.dat Stealer Builder - Project GrowZ v1.8
-.
-.
-Hey! Project_GrowZ been down for long time and i was thinking comeback for it.
-One update coming maybe soon.
-.
-Updated: Soon
-.
-.
-- MySk84high a.k.a MySk84fun
+
+Just fill in the details such as Name, Tagline, Dev Platforms Username, Current Work, Portfolio, Blog, etc. with a minimal UI.
+
+Uniform Dev Icons
+
+Uniform Social Icons
+
+Visitors Counter Badge
+
+GitHub Profile Stats Card
+
+GitHub Top Skills
+
+GitHub Streak Stats
+
+Dynamic Dev(.)to Blogs (GitHub Action)
+
+Dynamic Medium Blogs (GitHub Action)
+
+Dynamic Personal Blogs from RSS Feed (GitHub Action)
+
+Wakatime Stats contribute
+
+Buy Me A Coffee button
+
+Click on Generate README to get your README in markdown. You can preview the README too.
